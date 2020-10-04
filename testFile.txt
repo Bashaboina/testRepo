@@ -1,8 +1,12 @@
 test file
 added
+<<<<<<< Updated upstream
 
 edited by me
 added again
 =======
 added in master
 
+=======
+added by feature1
+>>>>>>> Stashed changes
