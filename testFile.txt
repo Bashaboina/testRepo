@@ -1,4 +1,13 @@
 test file
 added
+
 added in master
-added again
+
+=======
+
+added in master
+
+added by feature1
+
+=======
+added by master 2 and 3
